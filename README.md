@@ -1,1 +1,1 @@
-# Pic2Speech - Describe the world for visually impaired people with AI
+# Pic2Speech - Describe the world for visually impaired people
